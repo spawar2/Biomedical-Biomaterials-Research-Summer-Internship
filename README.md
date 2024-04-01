@@ -1,4 +1,4 @@
-[# Biomedical-Biomaterials-Research-Summer-Internship](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-1)
+[# Biomedical-Biomaterials-Research-Summer-Internship](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-1) Biomedical/Biomaterials Internship (2 students)
 
 [2023 Claflin University Biomedical/Biomaterials Research Summer Program (BR-SIP), Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion. Poster Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL)](https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf)
 
